@@ -1,4 +1,4 @@
-#!/Users/juansaldana/Projects/Desktop/MakeMeMoney/backend/env/bin/python3.10
+#!/Users/juansaldana/Projects/Desktop/MakeMeMoney/backend/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
