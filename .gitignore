@@ -1,7 +1,10 @@
 # Backend files
 backend/.env
-backend/env
+backend/.venv
+backend/__pycache__
 
 # Frontend files
 frontend/.env
 
+# IDE files
+.vscode
